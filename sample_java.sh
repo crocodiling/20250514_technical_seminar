@@ -9,4 +9,6 @@ echo 'public class sample{
 }' >> sample.java #ファイルに書き込み
 
 /opt/homebrew/cellar/openjdk/23.0.2/bin/javac ~/desktop/sample_java/sample.java
-/opt/homebrew/cellar/openjdk/23.0.2/bin/java -cp ~/Desktop/sample_java sample    
+/opt/homebrew/cellar/openjdk/23.0.2/bin/java -cp ~/Desktop/sample_java sample 
+
+#intel macの場合は，パスの指定が異なります．
