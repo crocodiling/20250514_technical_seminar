@@ -12,3 +12,4 @@ echo 'public class sample{
 /opt/homebrew/cellar/openjdk/23.0.2/bin/java -cp ~/Desktop/sample_java sample 
 
 #intel macの場合は，パスの指定が異なります．
+# テストコメント
